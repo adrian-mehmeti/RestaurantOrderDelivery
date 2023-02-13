@@ -11,9 +11,9 @@
     <class>BLL.Consumer</class>
     <properties>
       <property name="javax.persistence.jdbc.url" value=""/>
-      <property name="javax.persistence.jdbc.user" value="Res"/>
+      <property name="javax.persistence.jdbc.user" value=""/>
       <property name="javax.persistence.jdbc.driver" value="com.microsoft.sqlserver.jdbc.SQLServerDriver"/>
-      <property name="javax.persistence.jdbc.password" value="2020"/>
+      <property name="javax.persistence.jdbc.password" value=""/>
     </properties>
   </persistence-unit>
 </persistence>
